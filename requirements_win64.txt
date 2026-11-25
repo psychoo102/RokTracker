@@ -8,7 +8,7 @@ customtkinter==5.2.1
 cycler==0.12.1
 darkdetect==0.8.0
 et-xmlfile==1.1.0
-fonttools==4.46.0
+fonttools==4.60.2
 idna==3.6
 kiwisolver==1.4.5
 markdown-it-py==3.0.0
